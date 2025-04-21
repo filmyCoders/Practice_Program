@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\bin\Debug\net8.0\Arrays.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\bin\Debug\net8.0\Arrays.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\bin\Debug\net8.0\Arrays.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\bin\Debug\net8.0\Arrays.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Arrays\obj\Debug\net8.0\ref\Arrays.dll

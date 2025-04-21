@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\bin\Debug\net8.0\MatrixProgram.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\bin\Debug\net8.0\MatrixProgram.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\bin\Debug\net8.0\MatrixProgram.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\bin\Debug\net8.0\MatrixProgram.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\bin\Debug\net8.0\MatrixProgram.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\refint\MatrixProgram.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\MatrixProgram.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\MatrixProgram\obj\Debug\net8.0\ref\MatrixProgram.dll

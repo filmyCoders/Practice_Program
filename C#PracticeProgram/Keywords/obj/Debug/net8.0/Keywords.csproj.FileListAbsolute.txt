@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\bin\Debug\net8.0\Keywords.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\bin\Debug\net8.0\Keywords.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\bin\Debug\net8.0\Keywords.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\bin\Debug\net8.0\Keywords.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\bin\Debug\net8.0\Keywords.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\refint\Keywords.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\Keywords.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\Keywords\obj\Debug\net8.0\ref\Keywords.dll

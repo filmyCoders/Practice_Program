@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\bin\Debug\net8.0\ControlStatments.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\bin\Debug\net8.0\ControlStatments.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\bin\Debug\net8.0\ControlStatments.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\bin\Debug\net8.0\ControlStatments.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\bin\Debug\net8.0\ControlStatments.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\refint\ControlStatments.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ControlStatments.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\ControlStatments\obj\Debug\net8.0\ref\ControlStatments.dll

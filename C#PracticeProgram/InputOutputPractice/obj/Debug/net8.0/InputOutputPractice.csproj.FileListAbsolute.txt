@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\bin\Debug\net8.0\InputOutputPractice.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\bin\Debug\net8.0\InputOutputPractice.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\bin\Debug\net8.0\InputOutputPractice.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\bin\Debug\net8.0\InputOutputPractice.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\bin\Debug\net8.0\InputOutputPractice.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\refint\InputOutputPractice.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\InputOutputPractice.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InputOutputPractice\obj\Debug\net8.0\ref\InputOutputPractice.dll

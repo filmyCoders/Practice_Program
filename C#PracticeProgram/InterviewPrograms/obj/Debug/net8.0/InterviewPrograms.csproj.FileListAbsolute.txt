@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\bin\Debug\net8.0\InterviewPrograms.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\bin\Debug\net8.0\InterviewPrograms.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\bin\Debug\net8.0\InterviewPrograms.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\bin\Debug\net8.0\InterviewPrograms.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\bin\Debug\net8.0\InterviewPrograms.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\refint\InterviewPrograms.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\InterviewPrograms.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\InterviewPrograms\obj\Debug\net8.0\ref\InterviewPrograms.dll

@@ -1,0 +1,15 @@
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\bin\Debug\net8.0\C#PracticeProgram.exe
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\bin\Debug\net8.0\C#PracticeProgram.deps.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\bin\Debug\net8.0\C#PracticeProgram.runtimeconfig.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\bin\Debug\net8.0\C#PracticeProgram.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\bin\Debug\net8.0\C#PracticeProgram.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.AssemblyInfoInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.AssemblyInfo.cs
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.csproj.CoreCompileInputs.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.sourcelink.json
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\refint\C#PracticeProgram.dll
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.pdb
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\C#PracticeProgram.genruntimeconfig.cache
+G:\GithubUploaded_Projects\Practice_Program\C#PracticeProgram\C#PracticeProgram\obj\Debug\net8.0\ref\C#PracticeProgram.dll
